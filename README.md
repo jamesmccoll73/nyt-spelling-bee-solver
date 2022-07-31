@@ -10,4 +10,4 @@ NYT Spelling Bee is a game on the NYT Website played by millions everyday. The g
 I play this game everyday and was always frustrated I couldn't find all the words, so I built this web application that acts as an answer key. The user is asked for that day's seven valid letters and the must use letter. That information is sent to a backend servlet which searches the entire dictionary for valid words. If a word is 4 or more letters, only use the 7 letters given, and uses the must use letter, it is added to a solutions array that is sent back to the jsp homepage file. The solutions are then printed on the homepage sorted by length of the word.
 
 ## Example Photo <br>
-<img width="1715" alt="image" src="https://user-images.githubusercontent.com/84340435/182040998-28724a10-c85d-411a-9745-b40eb79a9df9.png">
+<img width="1713" alt="image" src="https://user-images.githubusercontent.com/84340435/182041060-52d503cf-0e55-4a3a-ad7d-02d6d53aaf0d.png">
